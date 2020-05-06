@@ -24,6 +24,7 @@ Hmm, so not quite.
 Ah yes, the future of automobiles with wings and a face!
 
 ![Image of CatAirplane2](catplane2.jpg)
+
 [ 284.75348   -423.04523    -91.05309    721.7166    -300.42218   592.8874    -642.69135     55.756886   -13.1496315 -831.19904  ] = <b>cat</b>
 
 Heh, it got it! I'm actually pretty sure our model has yet to correctly identify a cat to date (of all the normal, legitimate cat photos we gave it), so kudos to it for figuring this one out.
