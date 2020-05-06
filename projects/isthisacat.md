@@ -1,6 +1,6 @@
 ## Is this a cat?
 
-For my matrix method (18.065) class's final project, we're trying to see how SVD compression affects a neural net's ability to correctly classify an image's subject. We used the cifar10 dataset to train our model, so it is currently able to identify objects of the following classes: 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
+For the 18.065 -- my matrix method class's -- final project, we're trying to see how singular value decomposition (SVD) compression affects a neural net's ability to correctly classify an image's subject. We used the CIFAR-10 dataset to train our model, so it is currently able to identify objects of the following classes: 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', and 'truck'.
 
 A friend sent me some photos for fun, which I tested without any SVD compression... and they provided us with amusing outcomes:
 
