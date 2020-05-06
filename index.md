@@ -1,9 +1,9 @@
-### Welcome
+# Welcome
 
-#### Contents
-1. Links to pages
+## Contents
+1. Personal projects
 2. What I've been reading
 3. Etc.
 
-#### 1. Links to pages
+## 1. Personal projects
 [this is where I'll put the links??]
